@@ -1,0 +1,7 @@
+.noodle {
+    position: absolute;
+    right: 24%;
+    width: 50%;
+    height: 60%;
+    object-fit: contain;
+}

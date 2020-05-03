@@ -1,0 +1,12 @@
+.piring {
+    width: 80%;
+    height: 90%;
+    object-fit: contain;
+}
+.logo {
+    width: 8%;
+    object-fit: contain;
+    position: absolute;
+    bottom: 10%;
+    z-index: 2;
+}
